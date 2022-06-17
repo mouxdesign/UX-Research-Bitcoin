@@ -5,7 +5,7 @@ This repository serves as a living document during the UX Research process. It w
  
  > **__We want to create products that users not only desire but want to use on a daily basis.__**
  
-UX research to be a process that flexible to the product development process, easy to understand and even easier to intergrate. 
+My goal is to present UX Research as a process that is flexible to the product development process, easy to understand and even easier to intergrate. 
 # Author
 [Moux Design - Mo](https://github.com/mouxdesign)
 UX Designer and Researcher in the bitcoin space
