@@ -3,7 +3,7 @@ This repository serves as a living document during the UX Research process. It w
 # Summary
  My main focus will be integrating a UX Research approach to the development process of non-custodial bitcoin lightning network products in the bitcoin design guide.  The aim is to explore the current user experience of LN wallets and to take that information back into the product development process.
  
- **__We want to create products that users not only desire but want to use on a daily basis.__**
+ > **__We want to create products that users not only desire but want to use on a daily basis.__**
  
 UX research to be a process that flexible to the product development process, easy to understand and even easier to intergrate. 
 # Author
