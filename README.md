@@ -9,6 +9,11 @@ UX research to be a process that flexible to the product development process, ea
 # Author
 [Moux Design - Mo](https://github.com/mouxdesign)
 UX Designer and Researcher in the bitcoin space
+
+
+![Copy of Neumorphic Dark](https://user-images.githubusercontent.com/90313394/174326855-02ce28a7-2832-4207-83a8-d8b164fedc96.jpg)
+
+
 # Timeline
 15 June 2022 - 15 June 2023
 # Motivation
