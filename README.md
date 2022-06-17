@@ -20,21 +20,26 @@ As more and more Lightning wallets enter into the bitcoin space we want to get c
 
 Conduct UX research from beginning to end on 2-3 Lightning projects, this will be an iterative process which will constantly be re-evaluated based on the needs of the open-source ecosystem.
 During the research process I will aim to understand:
-![Copy of Project (part 1)](https://user-images.githubusercontent.com/90313394/173817607-4b82346b-4c4d-44e7-9f15-0969da325dbd.jpg)
-* **Use cases**<br/> What are some of the main use cases of people who are using a wallet on a daily basis? <br/><br/>
+![Copy of Project (part 1) (2)](https://user-images.githubusercontent.com/90313394/174294733-ed2aac55-e153-4c20-8cfd-c58193933d84.jpg)
+
+* **User interviews**<br/><br/>
 How?<br/> 
-Speak to LN wallet users in the form of conducting an open dialogue.
+We want to understand what are some of the main use cases of people who are using a wallet on a daily basis? To understand users and how they use LN wallets I will conduct an indpeth interview with 5 wallet users to understand them and how the use of a wallet fits in and supports them in achieving thier goals on a daily basis.
 
-* **Benchmarking**<br/> Best practices used by LN wallet builders with the aim of learning from those best practices.<br/><br/>
+* **Competitive Benchmarking**<br/><br/>
 How? <br/>
-Perform competitive benchmarking on 2-3 Lighting wallets and performing a heurstic analysis on various aspects of the interface design.
+The landscape of LN wallets is diverse and rich with many builders arriving to the arena who have teams of UX designers and developers constantly iterating during the product development process. We can learn alot from what is already being done. With this goal in mind I will perform competitive benchmarking on 2-3 Lighting wallets by using heurstic analysis on various aspects of the interface designs.
 
-* **User Flows** <br/> What is the shortest most friendly journey for the user?<br/><br/>
+* **User Flows Analysis** <br/><br/>
 How?<br/>
-Compare the userflows of various Lightning wallets by analyzing them and focusing on screen states as well as menu/settings configurations. 
+Getting users to thier end goal as efficiently and as smoothly as possible ensures that apps are used more frequently and with ease. To understand how various wallets are solving the same problem I will compare the userflows of various Lightning wallets by analyzing them and focusing on screen states as well as menu/settings configurations. 
 
-* **User behaviour** <br/> How do users interact with the interface?<br/><br/>
+* **Usability tests** <br/><br/>
 How?<br/>
-Conduct Usability tests remotely or in person with users and gather data based on thier behaviour and questions.
+To understand how users acre interacting with the interface and where there is friction we must observe the users. To do this I will conduct usability tests remotely or in person with users and gather data based on thier behaviour and questions.
+
+* **Accessibility Analysis** <br/><br/>
+How?<br/>
+To understand how friendly wallet interfaces are to people with disabilities I will analyze screenstates with accessibility practices in mind.
 
 These various forms of data will then be analyzed and reccomendations will be then provided. 
