@@ -25,11 +25,7 @@ As more and more Lightning wallets enter into the bitcoin space we want to get c
 
 Conduct UX research from beginning to end on 2-3 Lightning projects, this will be an iterative process which will constantly be re-evaluated based on the needs of the open-source ecosystem.
 During the research process I will aim to understand:
-![Copy of Project (part 1) (2)](https://user-images.githubusercontent.com/90313394/174294733-ed2aac55-e153-4c20-8cfd-c58193933d84.jpg)
-
-* **User interviews**<br/><br/>
-How?<br/> 
-We want to understand what are some of the main use cases of people who are using a wallet on a daily basis? To understand users and how they use LN wallets I will conduct an indpeth interview with 5 wallet users to understand them and how the use of a wallet fits in and supports them in achieving thier goals on a daily basis.
+![Copy of Education (1)](https://user-images.githubusercontent.com/90313394/175527783-bf6197e4-2964-4eab-b6dc-5785540a4286.jpg)
 
 * **Competitive Benchmarking**<br/><br/>
 How? <br/>
@@ -43,8 +39,3 @@ Getting users to thier end goal as efficiently and as smoothly as possible ensur
 How?<br/>
 To understand how users acre interacting with the interface and where there is friction we must observe the users. To do this I will conduct usability tests remotely or in person with users and gather data based on thier behaviour and questions.
 
-* **Accessibility Analysis** <br/><br/>
-How?<br/>
-To understand how friendly wallet interfaces are to people with disabilities I will analyze screenstates with accessibility practices in mind.
-
-These various forms of data will then be analyzed and reccomendations will be then provided. 
